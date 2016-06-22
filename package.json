@@ -3,7 +3,8 @@
     "reaction": "./reaction",
     "reaction reset": "./reaction reset",
     "reaction pull": "./reaction pull",
-    "reaction install": "./reaction install"
+    "reaction install": "./reaction install",
+    "reaction start": "./reaction pull && ./reaction"
   },
   "name": "reaction",
   "description": "Reaction is a modern reactive, real-time event driven ecommerce platform.",
