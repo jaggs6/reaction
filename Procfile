@@ -1,1 +1,1 @@
-web: npm run reaction
+web: npm run reaction install
