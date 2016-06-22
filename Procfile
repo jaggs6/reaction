@@ -1,1 +1,1 @@
-web: ./reaction
+web: npm run reaction start
