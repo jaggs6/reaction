@@ -4,7 +4,7 @@
     "reaction reset": "./reaction reset",
     "reaction pull": "./reaction pull",
     "reaction install": "./reaction install",
-    "reaction-start": "curl https://install.meteor.com | /bin/sh && ./reaction"
+    "heroku-prebuild": "curl https://install.meteor.com | /bin/sh && git clone https://github.com/reactioncommerce/reaction.git && cd reaction && reaction pull"
   },
   "name": "reaction",
   "description": "Reaction is a modern reactive, real-time event driven ecommerce platform.",
